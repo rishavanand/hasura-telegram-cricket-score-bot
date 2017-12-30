@@ -21,6 +21,8 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 * Navigate to http://www.cricapi.com/fan/signup.aspx and create a new account
 * Login and copy your **API KEY** from the cricapi dashboard.
 
+![Cricapi signup](https://github.com/rishavanand/hasura-telegram-bot/raw/master/assets/cricapi_signup.png "Cricapi signup")
+
 ## 2) Create new bot on Telegram app
 
 * Open your Telegram app and search for BotFather

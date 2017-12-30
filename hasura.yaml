@@ -1,6 +1,5 @@
-description: A facebook messenger bot deployed on Hasura.
-keywords: bot, facebook, nodejs, express, node, javascript, messenger, messenger bot,
-  chatbot
+description: A simple telegram bot that sends cricket scores .
+keywords: bot, telegram, nodejs, express, node, javascript, telegram bot, chatbot
 media: {}
-name: fb-bot
+name: telegram-bot
 platformVersion: v0.15.3

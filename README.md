@@ -1,3 +1,5 @@
+# Docs in process. Do not deploy now.
+
 # Building a Telegram Bot on Hasura
 
 This tutorial is about getting a telegram bot to run on Hasura as quick as possible. This bot is also integrated with API from cricapi.com. Each command will have a description telling you what it does and also be sometimes accompanied by screenshots so that you know you are heading in the right direction.
@@ -27,3 +29,26 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 * Send a bot name of your choice
 * Then send a bot username. Can be anything
 * You will then get a confirmation message with the Bot's API. Copy the ***API KEY*** 
+
+### 3) Getting the Hasura project
+
+```sh
+
+# Clone the repository on your computer
+$ hasura quickstart rishavanand/telegram-bot
+
+# Enter the directort
+$ cd telegram-bot
+
+# Add telegram's api to environment variables a.k.a hasura secrets
+$ hasura secrets update bot.telegram_bot_api.key <YOUR-TELEGRAM-API-KEY>
+
+# Add cricapi's api to environment variables a.k.a hasura secrets
+$ hasura secrets update bot.cricapi.key <YOUR-CRICAPI-API-KEY>
+
+# Deploy
+$ git add . && git commit -m "Deployment commit"
+$ git push hasura master
+
+```
+

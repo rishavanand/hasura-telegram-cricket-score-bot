@@ -1,5 +1,3 @@
-## Readme Status : Images pending
-
 # Building a Telegram Bot on Hasura
 
 This readme is about getting a telegram bot to run on Hasura as quick as possible. This bot is also integrated with API from cricapi.com. Each command will have a description telling you what it does and also be sometimes accompanied by screenshots so that you know you are heading in the right direction.
@@ -72,7 +70,6 @@ Now that our bot is ready. We need to find our bot.
 * Then press /matches. This will give you a list of recent matches
 * Press on the link below any match to get the score
 
-<p align="center">
-  <img src="https://github.com/rishavanand/hasura-telegram-bot/raw/master/assets/bot_interaction.gif">
-</p>
+![Bot interaction](https://github.com/rishavanand/hasura-telegram-bot/raw/master/assets/bot_interaction.gif "Bot interaction")
+
 

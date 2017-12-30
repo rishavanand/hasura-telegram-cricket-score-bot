@@ -72,5 +72,7 @@ Now that our bot is ready. We need to find our bot.
 * Then press /matches. This will give you a list of recent matches
 * Press on the link below any match to get the score
 
+<p align="center">
 ![Bot interaction](https://github.com/rishavanand/hasura-telegram-bot/raw/master/assets/bot_interaction.gif "Bot interaction")
+</p>
 

@@ -1,4 +1,4 @@
-# Docs in process. Do not deploy now.
+## Images pending
 
 # Building a Telegram Bot on Hasura
 

@@ -1,4 +1,4 @@
-## Images pending
+## Readme Status : Images pending
 
 # Building a Telegram Bot on Hasura
 
@@ -14,14 +14,14 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 
 * [hasura CLI](https://docs.hasura.io/0.15/manual/install-hasura-cli.html)
 
-## Let's start
+### Let's start
 
-### 1) Obtain API Key from Cricapi.com
+## 1) Obtain API Key from Cricapi.com
 
 * Navigate to http://www.cricapi.com/fan/signup.aspx and create a new account
 * Login and copy your **API KEY** from the cricapi dashboard.
 
-### 2) Create new bot on Telegram app
+## 2) Create new bot on Telegram app
 
 * Open your Telegram app and search for BotFather
 * Select /start
@@ -30,7 +30,7 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 * Then send a bot username. Can be anything
 * You will then get a confirmation message with the Bot's API. Copy the ***API KEY*** 
 
-### 3) Getting the Hasura project
+## 3) Getting the Hasura project
 
 ```sh
 
@@ -56,7 +56,7 @@ $ git push hasura master
 
 Our Telegram Bot is now ready for use.
 
-### 3) Interacting with your bot
+## 3) Interacting with your bot
 
 ***( NOTE : Cricapi.com takes approx 10 minutes to make its API ready. So your API key might not work before 10 mintues)***
 

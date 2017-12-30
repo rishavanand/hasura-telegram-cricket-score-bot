@@ -16,7 +16,7 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 
 ### 1) Obtain API Key from Cricapi.com
 
-* Navigate to http://www.cricapi.com/fan/signup.aspx?returnURL=http://www.cricapi.com and create a new account
+* Navigate to http://www.cricapi.com/fan/signup.aspx and create a new account
 * Login and copy your **API KEY** from the cricapi dashboard.
 
 ### 2) Create new bot on Telegram app

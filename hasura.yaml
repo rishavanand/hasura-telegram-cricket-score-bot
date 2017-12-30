@@ -1,5 +1,5 @@
 description: A simple telegram bot that sends cricket scores .
-keywords: bot, telegram, nodejs, express, node, javascript, telegram bot, chatbot
+keywords: bot, telegram, nodejs, express, node, javascript, telegram bot, chatbot, cricketbot
 media: {}
 name: telegram-bot
 platformVersion: v0.15.3

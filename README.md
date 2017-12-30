@@ -66,6 +66,6 @@ Now that our bot is ready. We need to find our bot.
 * Search for your bot by its username
 * Press /start
 * Then press /matches. This will give you a list of recent matches
-* Press on the link below any match to get the score
+* Press on the link below any match to get the score 
 
 

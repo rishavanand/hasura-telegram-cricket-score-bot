@@ -32,6 +32,8 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 * Then send a bot username. Can be anything
 * You will then get a confirmation message with the Bot's API. Copy the ***API KEY*** 
 
+![Bot create](https://github.com/rishavanand/hasura-telegram-bot/raw/master/assets/bot_create.jpeg "Bot create")
+
 ## 3) Getting the Hasura project
 
 ```sh

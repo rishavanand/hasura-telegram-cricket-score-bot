@@ -1,0 +1,20 @@
+{
+  "name": "quickstart-docker-express-example",
+  "version": "1.0.0",
+  "description": "Demo to show git push build and deploy",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.14.0",
+    "moviedb": "^0.2.8",
+    "request": "^2.81.0",
+    "telebot": "^1.2.3"
+  },
+  "engines": {
+    "node": "6.11.4"
+  }
+}

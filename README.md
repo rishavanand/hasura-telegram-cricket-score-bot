@@ -6,6 +6,9 @@ There will also be links to provide you with more information on a topic. Do rem
 
 We will be using telebot package (https://github.com/mullwar/telebot) with NodeJS on our server. When a user sends a message to our bot it will be sent to our server by Telegram. We will then send a response back to the user from our server.
 
+## Github Repo Link
+* https://github.com/rishavanand/hasura-telegram-cricket-score-bot
+
 ## Pre-requisites
 
 * [NodeJS](https://nodejs.org)
@@ -13,9 +16,6 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 * [hasura CLI](https://docs.hasura.io/0.15/manual/install-hasura-cli.html)
 
 ### Let's start
-
-## Github Repo Link
-* https://github.com/rishavanand/hasura-telegram-cricket-score-bot
 
 ## 1) Obtain API Key from Cricapi.com
 

@@ -14,6 +14,9 @@ We will be using telebot package (https://github.com/mullwar/telebot) with NodeJ
 
 ### Let's start
 
+## Github Repo Link
+* https://github.com/rishavanand/hasura-telegram-cricket-score-bot
+
 ## 1) Obtain API Key from Cricapi.com
 
 * Navigate to http://www.cricapi.com/fan/signup.aspx and create a new account

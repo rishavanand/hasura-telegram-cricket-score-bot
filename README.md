@@ -46,10 +46,10 @@ $ hasura quickstart rishavanand/telegram-bot
 $ cd telegram-bot
 
 # Add telegram's api key to environment variables a.k.a hasura secrets
-$ hasura secrets update bot.telegram_bot_api.key <YOUR-TELEGRAM-API-KEY>
+$ hasura secrets update bot.telegram_bot_api.key <6441906354:AAF72amJhqRDkHBP6YewtYKP5KDqkub2Ts0>
 
 # Add cricapi's api key to environment variables a.k.a hasura secrets
-$ hasura secrets update bot.cricapi.key <YOUR-CRICAPI-API-KEY>
+$ hasura secrets update bot.cricapi.key <94eba118-bfc7-460e-bd18-f04220b4f9ec>
 
 # Commit changes
 $ git add . && git commit -m "Deployment commit"
